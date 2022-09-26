@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dhruv Makhija!
+- 👀 I’m interested in front-end and back-end development.
+- 🌱 I’m currently learning game development, website development, and mobile application development.
+- 👨‍🎓 I'm currently a freshman in highschool! (Class of 2025).
+- 📫 How to reach me - Email ID: dhruvmakhija07@gmail.com
